@@ -1,0 +1,14 @@
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/bin/Debug/netcoreapp3.1/Vehicle_Car_Bus
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/bin/Debug/netcoreapp3.1/Vehicle_Car_Bus.deps.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/bin/Debug/netcoreapp3.1/Vehicle_Car_Bus.runtimeconfig.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/bin/Debug/netcoreapp3.1/Vehicle_Car_Bus.runtimeconfig.dev.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/bin/Debug/netcoreapp3.1/Vehicle_Car_Bus.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/bin/Debug/netcoreapp3.1/Vehicle_Car_Bus.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.AssemblyInfo.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/obj/Debug/netcoreapp3.1/Vehicle_Car_Bus.genruntimeconfig.cache

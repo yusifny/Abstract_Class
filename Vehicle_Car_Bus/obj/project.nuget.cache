@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCHWKx/SrWvhGyl++hDMcasYapRwGV8t01ND+OOI5c2Dd1pW+1B/vl9/aGQ7onz0SS1UyNl02/HVErWLF1uK3g==",
+  "success": true,
+  "projectFilePath": "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/Vehicle_Car_Bus/Vehicle_Car_Bus.csproj",
+  "expectedPackageFiles": [
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
